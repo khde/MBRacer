@@ -9,7 +9,7 @@ With ```make run``` it will use qemu to run it.
 ## Usage
 Move left and right with a and d keys.\
 If you got hit the game will quietly reset.\
-With every evade the it will get faster :D.
+With every evade it will get faster :D.
 
 ## Screenshot
 ![img](image.png)
